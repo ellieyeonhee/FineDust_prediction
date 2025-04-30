@@ -6,7 +6,7 @@ machine learning models: Random Forest Regression and Long Short-Term Memory
 them by applying various techniques to prevent overfitting.
 Problem Statement
 
-##Problem:
+## Problem:
 In South Korea, fine dust monitoring presents significant academic and practical
 challenges due to the unique characteristics of the residential environment and
 geographical factors. A key issue is the lack of observation stations in cities and provinces
@@ -16,10 +16,11 @@ measurements in smaller towns and rural areas. For example, rural regions have, 
 average, seven times fewer monitoring stations compared to the capital city of Seoul.
 
 
-##Objective:
+## Objective:
 The goal of this project was to predict futurePM2.5 levels using machine learning models
 with past fine dust data.
-Data Collection
+
+## Data Collection
 Data source:
 https://www.data.go.kr/en/data/15089266/fileData.do
 The fine dust data is sourced from Public Data Portal(data.go.kr). This Public Data Portal
